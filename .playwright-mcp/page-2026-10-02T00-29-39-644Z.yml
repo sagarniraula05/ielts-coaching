@@ -1,0 +1,205 @@
+- generic [ref=f10e2]:
+  - generic [ref=f10e3]:
+    - link "Skip to content" [ref=f10e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner "Global navigation menu" [ref=f10e8]:
+      - generic [ref=f10e9]:
+        - generic [ref=f10e10]:
+          - button "Open menu" [ref=f10e12] [cursor=pointer]
+          - link "Homepage (g then d)" [ref=f10e15] [cursor=pointer]:
+            - /url: /
+        - generic [ref=f10e18]:
+          - navigation "Breadcrumbs" [ref=f10e19]:
+            - list [ref=f10e20]:
+              - listitem [ref=f10e21]:
+                - link "sagarniraula05" [ref=f10e22] [cursor=pointer]:
+                  - /url: /sagarniraula05
+              - listitem [ref=f10e24]:
+                - link "ielts-coaching" [ref=f10e25] [cursor=pointer]:
+                  - /url: /sagarniraula05/ielts-coaching
+                - button "Switch repository (alt shift r)" [ref=f10e26] [cursor=pointer]
+          - button "Open quick search dialog, type / to search" [ref=f10e31] [cursor=pointer]:
+            - generic [ref=f10e33]:
+              - generic:
+                - text: Type
+                - generic: /
+                - text: to search
+        - generic [ref=f10e34]:
+          - generic [ref=f10e35]:
+            - generic [ref=f10e38]:
+              - link "Chat with Copilot" [ref=f10e40] [cursor=pointer]:
+                - /url: /copilot
+              - button "Open Copilot…" [ref=f10e45] [cursor=pointer]
+            - button "Create new..." [ref=f10e47] [cursor=pointer]
+            - generic [ref=f10e49]:
+              - link "All issues" [ref=f10e50] [cursor=pointer]:
+                - /url: /issues
+              - link "All pull requests" [ref=f10e54] [cursor=pointer]:
+                - /url: /pulls
+              - link "All repositories" [ref=f10e57] [cursor=pointer]:
+                - /url: /repos
+          - button "Open user navigation menu" [ref=f10e61] [cursor=pointer]:
+            - img "User avatar" [ref=f10e62]
+      - heading "Repository navigation" [level=2] [ref=f10e63]
+      - navigation "Repository" [ref=f10e64]:
+        - list [ref=f10e65]:
+          - listitem [ref=f10e66]:
+            - link "Code" [ref=f10e67] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching
+          - listitem [ref=f10e72]:
+            - link "Issues" [ref=f10e73] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/issues
+          - listitem [ref=f10e79]:
+            - link "Pull requests" [ref=f10e80] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/pulls
+          - listitem [ref=f10e85]:
+            - link "Agents" [ref=f10e86] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/agents?author=sagarniraula05
+          - listitem [ref=f10e92]:
+            - link "Actions" [ref=f10e93] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/actions
+          - listitem [ref=f10e98]:
+            - link "Projects" [ref=f10e99] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/projects
+          - listitem [ref=f10e104]:
+            - link "Wiki" [ref=f10e105] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/wiki
+          - listitem [ref=f10e110]:
+            - link "Security and quality" [ref=f10e111] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/security
+          - listitem [ref=f10e116]:
+            - link "Insights" [ref=f10e117] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/pulse
+          - listitem [ref=f10e122]:
+            - link "Settings" [ref=f10e123] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/settings
+        - button "More items" [ref=f10e130] [cursor=pointer]:
+          - generic [ref=f10e133]:
+            - text: More
+            - generic [ref=f10e134]: items
+  - main [ref=f10e138]:
+    - generic [ref=f10e140]:
+      - generic [ref=f10e142]:
+        - img "Owner avatar" [ref=f10e143]
+        - strong [ref=f10e144]:
+          - link "ielts-coaching" [ref=f10e145] [cursor=pointer]:
+            - /url: /sagarniraula05/ielts-coaching
+        - generic [ref=f10e146]: Public
+      - generic [ref=f10e147]:
+        - list:
+          - listitem [ref=f10e148]:
+            - button "Pin" [ref=f10e151] [cursor=pointer]
+          - listitem [ref=f10e154]:
+            - button "Watching a repository" [disabled] [ref=f10e157]:
+              - generic [ref=f10e158]: Watch
+          - listitem [ref=f10e160]:
+            - generic [ref=f10e161]:
+              - button "Fork 0" [disabled] [ref=f10e162]:
+                - text: Fork
+                - generic "0" [ref=f10e165]
+              - group [ref=f10e166]:
+                - button "See your forks of this repository" [ref=f10e167] [cursor=pointer]
+          - listitem [ref=f10e170]:
+            - generic [ref=f10e172]:
+              - button "Star this repository (0)" [ref=f10e174] [cursor=pointer]:
+                - text: Star
+                - generic "0 users starred this repository" [ref=f10e177]: "0"
+              - button "Add this repository to a list" [ref=f10e181] [cursor=pointer]
+    - generic [ref=f10e186]:
+      - generic [ref=f10e187]:
+        - generic [ref=f10e189]:
+          - heading "Start coding with Codespaces" [level=3] [ref=f10e193]
+          - paragraph [ref=f10e194]: Add a README file and start coding in a secure, configurable, and dedicated development environment.
+          - link "Create a codespace" [ref=f10e195] [cursor=pointer]:
+            - /url: /codespaces/new/sagarniraula05/ielts-coaching?auto_init=1&resume=1
+        - generic [ref=f10e199]:
+          - heading "Add collaborators to this repository" [level=3] [ref=f10e202]
+          - paragraph [ref=f10e203]: Search for people using their GitHub username or email address.
+          - link "Invite collaborators" [ref=f10e204] [cursor=pointer]:
+            - /url: /sagarniraula05/ielts-coaching/settings/access
+      - generic [ref=f10e207]:
+        - generic [ref=f10e208]:
+          - heading [level=3] [ref=f10e209]:
+            - strong [ref=f10e210]: Quick setup
+            - text: — if you’ve done this kind of thing before
+          - generic [ref=f10e211]:
+            - link "Set up in Desktop" [ref=f10e213] [cursor=pointer]:
+              - /url: https://desktop.github.com
+            - strong [ref=f10e218]: or
+            - generic [ref=f10e220]:
+              - button "HTTPS" [ref=f10e222] [cursor=pointer]
+              - button "SSH" [ref=f10e224] [cursor=pointer]
+            - generic [ref=f10e227]:
+              - textbox "Clone URL" [ref=f10e228]: https://github.com/sagarniraula05/ielts-coaching.git
+              - button "Copy to clipboard" [ref=f10e230] [cursor=pointer]
+          - paragraph [ref=f10e234]:
+            - text: Get started by
+            - link "creating a new file" [ref=f10e235] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/new/main
+            - text: or
+            - link "uploading an existing file" [ref=f10e236] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/upload
+            - text: . We recommend every repository include a
+            - link "README" [ref=f10e237] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/new/main?readme=1
+            - text: ","
+            - link "LICENSE" [ref=f10e238] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/new/main?filename=LICENSE.md
+            - text: ", and"
+            - link ".gitignore" [ref=f10e239] [cursor=pointer]:
+              - /url: /sagarniraula05/ielts-coaching/new/main?filename=.gitignore
+            - text: .
+        - generic [ref=f10e240]:
+          - generic [ref=f10e241]:
+            - heading "…or create a new repository on the command line" [level=3] [ref=f10e242]
+            - generic [ref=f10e243]:
+              - button "Copy to clipboard" [ref=f10e245] [cursor=pointer]
+              - generic [ref=f10e249]:
+                - text: echo "# ielts-coaching" >> README.md git init git add README.md git commit -m "first commit" git branch -M main
+                - generic [ref=f10e250]: git remote add origin https://github.com/sagarniraula05/ielts-coaching.git
+                - text: git push -u origin main
+          - generic [ref=f10e251]:
+            - heading "…or push an existing repository from the command line" [level=3] [ref=f10e252]
+            - generic [ref=f10e253]:
+              - button "Copy to clipboard" [ref=f10e255] [cursor=pointer]
+              - generic [ref=f10e259]:
+                - generic [ref=f10e260]: git remote add origin https://github.com/sagarniraula05/ielts-coaching.git
+                - text: git branch -M main git push -u origin main
+      - generic [ref=f10e261]:
+        - strong [ref=f10e264]: ProTip!
+        - text: Use the URL for this page when adding GitHub as a remote.
+  - contentinfo [ref=f10e265]:
+    - heading "Footer" [level=2] [ref=f10e266]
+    - generic [ref=f10e267]:
+      - generic [ref=f10e268]:
+        - link "GitHub Homepage" [ref=f10e269] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f10e272]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f10e273]:
+        - heading "Footer navigation" [level=3] [ref=f10e274]
+        - list "Footer navigation" [ref=f10e275]:
+          - listitem [ref=f10e276]:
+            - link "Terms" [ref=f10e277] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f10e278]:
+            - link "Privacy" [ref=f10e279] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f10e280]:
+            - link "Security" [ref=f10e281] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f10e282]:
+            - link "Status" [ref=f10e283] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f10e284]:
+            - link "Community" [ref=f10e285] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f10e286]:
+            - link "Docs" [ref=f10e287] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f10e288]:
+            - link "Contact" [ref=f10e289] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f10e290]:
+            - button "Manage cookies" [ref=f10e292] [cursor=pointer]
+          - listitem [ref=f10e293]:
+            - button "Do not share my personal information" [ref=f10e295] [cursor=pointer]
