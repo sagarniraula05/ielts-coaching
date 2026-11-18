@@ -9,23 +9,23 @@ The full course. Nothing is skipped. The teacher updates the status after each l
 ### Grammar (in this order)
 | # | Topic | Status | Notes |
 |---|---|---|---|
-| G1 | Sentence structure: subject + verb + object; complete sentences | ⬜ | |
-| G2 | Present simple and present continuous | ⬜ | |
-| G3 | Past simple and past continuous | ⬜ | |
+| G1 | Sentence structure: subject + verb + object; complete sentences | 📘 | 2026-10-05 taught. Found fragment ("Because...") alone; wrote 3 complete sentences. Check again in writing |
+| G2 | Present simple and present continuous | ✅ | Placement: correct in test. But subject-verb agreement slips in writing (see G8) |
+| G3 | Past simple and past continuous | ⬜ | Placement: past simple ok; past continuous wrong; "teached" for "taught" (irregular verbs) |
 | G4 | Present perfect (vs past simple) | ⬜ | |
 | G5 | Future forms: will, going to, present continuous | ⬜ | |
-| G6 | Articles: a, an, the, no article | ⬜ | |
-| G7 | Countable and uncountable nouns; much, many, a lot of, few, little | ⬜ | |
-| G8 | Subject-verb agreement | ⬜ | |
-| G9 | Prepositions of time and place | ⬜ | |
-| G10 | Comparatives and superlatives | ⬜ | |
+| G6 | Articles: a, an, the, no article | ⬜ | Placement: a/an ok in test; missing articles in writing and dictation. 2026-10-05: a/an by sound understood (a university, an hour); still missing "the/a" before nouns when writing long answers (limit, impact, form) |
+| G7 | Countable and uncountable nouns; much, many, a lot of, few, little | 📘 | 2026-10-04 taught + error-correction 4/4 correct. Still check plural -s in essays (high priority) |
+| G8 | Subject-verb agreement | 📘 | 2026-10-04 taught; 3 you-do + error-correction correct. Wrong rule at first ("plural subject → singular verb"). Re-practise daily (high priority) |
+| G9 | Prepositions of time and place | ⬜ | Test ok; "in/on Baker Street", "come school", "Despite of" wrong |
+| G10 | Comparatives and superlatives | ✅ | Placement: correct |
 | G11 | Modal verbs: can, could, should, must, may, might | ⬜ | |
-| G12 | Conditionals: zero, first, second, third | ⬜ | |
-| G13 | Passive voice (important for Task 1 process diagrams) | ⬜ | |
-| G14 | Relative clauses: who, which, that, where | ⬜ | |
+| G12 | Conditionals: zero, first, second, third | ⬜ | Placement: first, second and third conditional all correct in test (recognition only; check in writing) |
+| G13 | Passive voice (important for Task 1 process diagrams) | ⬜ | Placement: correct in test |
+| G14 | Relative clauses: who, which, that, where | ⬜ | Placement: "who" correct in test |
 | G15 | Linking words: however, although, because, therefore, whereas | ⬜ | |
 | G16 | Complex sentences: combining ideas | ⬜ | |
-| G17 | Punctuation: full stops, commas, capital letters | ⬜ | |
+| G17 | Punctuation: full stops, commas, capital letters | 📘 | 2026-10-05 taught. Commas after linking words, comma before "but", capitals: all correct in 2 exercises. Still slips "He" after comma in homework and street names (Baker Street) |
 
 ### Vocabulary foundations
 | # | Topic | Status | Notes |
@@ -50,7 +50,7 @@ The full course. Nothing is skipped. The teacher updates the status after each l
 |---|---|---|---|
 | R0 | Skimming and scanning; time management (20 min per passage) | ⬜ | |
 | R1 | Multiple choice | ⬜ | |
-| R2 | True / False / Not Given | ⬜ | |
+| R2 | True / False / Not Given | ⬜ | Placement (easy passage): correct, including Not Given. Test on a harder passage |
 | R3 | Yes / No / Not Given | ⬜ | |
 | R4 | Matching information (to paragraphs) | ⬜ | |
 | R5 | Matching headings | ⬜ | |
@@ -95,7 +95,7 @@ The full course. Nothing is skipped. The teacher updates the status after each l
 |---|---|---|---|
 | W2a | Understanding the question; planning in 5 minutes | ⬜ | |
 | W2b | Introduction and conclusion | ⬜ | |
-| W2c | Body paragraphs: point, explanation, example | ⬜ | |
+| W2c | Body paragraphs: point, explanation, example | 📘 | 2026-10-04 point-explain-example used in an untimed paragraph; linking words First/In addition/For example/As a result used correctly after model. Needs own ideas next time. 2026-10-05 second practice: wrote paragraph with own ideas (52 words, saved in work/writing). First example did not prove the point; needed 3 tries to choose a matching example. Still ✏️ not reached: practise again in a timed task |
 | W2d | Opinion (agree or disagree) | ⬜ | |
 | W2e | Discussion (both views + your opinion) | ⬜ | |
 | W2f | Advantages and disadvantages | ⬜ | |
@@ -120,10 +120,10 @@ The full course. Nothing is skipped. The teacher updates the status after each l
 ### Speaking
 | # | Topic | Status | Notes |
 |---|---|---|---|
-| S1 | Part 1: short personal answers with a reason or example | ⬜ | |
-| S2 | Part 2: using the 1-minute preparation; talking for 2 minutes | ⬜ | |
-| S3 | Part 3: giving and supporting opinions, comparing | ⬜ | |
-| S4 | Fluency: natural fillers, self-correction, not memorising | ⬜ | |
+| S1 | Part 1: short personal answers with a reason or example | ⬜ | 2026-10-05 first phone test: gave reasons and examples (good). Not yet taught formally |
+| S2 | Part 2: using the 1-minute preparation; talking for 2 minutes | ⬜ | 2026-10-05: good length but too much "why", missed "how" and "how useful" bullets. Teach: cover all bullets |
+| S3 | Part 3: giving and supporting opinions, comparing | ⬜ | 2026-10-05: first answer unclear. Teach: opinion first, then reason |
+| S4 | Fluency: natural fillers, self-correction, not memorising | ⬜ | 2026-10-05: many "uh" fillers. Teach: "Let me think..." phrases |
 | S5 | Pronunciation practice (see P1, P2) | ⬜ | |
 
 ## Phase 3: Exam preparation
